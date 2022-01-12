@@ -1,0 +1,26 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "this is backend for time table management system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "config": "^3.3.6",
+    "cors": "^2.8.5",
+    "cros": "^1.0.1",
+    "crypto": "^1.0.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "express-rate-limit": "^6.0.4",
+    "helmet": "^5.0.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.1.5",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.15"
+  }
+}
